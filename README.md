@@ -23,7 +23,7 @@ Once necessary dependencies are installed, run 'node index' in your command term
 
 Future updates will include more license options.
 
-![README This Batman - A README Generator](assets/images/readme-this-batman.png)
+![README This Batman - A README Generator](images/readme-this-batman.png)
 [This is an external link to the 'README This Batman' usage video](https://drive.google.com/file/d/1d1w4BhVwKE549f4TgC0vx3Y5AIbITNz5/view)
 
 ## Credits
